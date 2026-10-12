@@ -1,0 +1,16 @@
+{
+  "name": "keenable",
+  "description": "Keenable's plugin for Claude: keyless web search and page extraction.",
+  "owner": {
+    "name": "Keenable",
+    "email": "support@keenable.ai"
+  },
+  "plugins": [
+    {
+      "name": "keenable",
+      "source": "./",
+      "description": "Keyless web search and clean page extraction through Keenable's hosted MCP server, with web research skills.",
+      "category": "productivity"
+    }
+  ]
+}

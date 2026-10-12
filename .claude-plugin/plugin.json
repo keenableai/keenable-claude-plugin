@@ -1,0 +1,20 @@
+{
+  "name": "keenable",
+  "displayName": "Keenable",
+  "version": "1.0.0",
+  "description": "Web search and clean page extraction through Keenable's hosted MCP server, with skills for everyday web research and cited multi-source research. Keyless: no signup or API key.",
+  "author": {
+    "name": "Keenable",
+    "email": "support@keenable.ai",
+    "url": "https://keenable.ai"
+  },
+  "homepage": "https://keenable.ai",
+  "repository": "https://github.com/keenableai/keenable-claude-plugin",
+  "license": "MIT",
+  "keywords": ["web-search", "search", "web", "research", "content-extraction", "mcp", "keyless"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://docs.keenable.ai/integrations/claude",
+  "supportUrl": "https://keenable.ai/contact",
+  "privacyPolicyUrl": "https://keenable.ai/privacy",
+  "termsOfServiceUrl": "https://keenable.ai/terms"
+}
