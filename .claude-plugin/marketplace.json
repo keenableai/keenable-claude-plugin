@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "keenable",
-      "source": "./",
+      "source": "./plugins/keenable",
       "description": "Keyless web search and clean page extraction through Keenable's hosted MCP server, with web research skills.",
       "category": "productivity"
     }
