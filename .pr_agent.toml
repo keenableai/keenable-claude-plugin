@@ -8,4 +8,6 @@
 # are dead on this platform (verified 2026-09-07).
 
 [github_app]
+# /agentic_review posts the "Code Review by Qodo" comment the bridge keys on.
+pr_commands = ["/agentic_review"]
 handle_push_trigger = true
