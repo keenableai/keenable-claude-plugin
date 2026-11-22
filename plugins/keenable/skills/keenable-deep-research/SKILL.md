@@ -16,6 +16,11 @@ cover. For a quick fact, use the `keenable-web` workflow instead.
 2. **Search per sub-question.** Run a focused `search_web_pages` query for each.
    Use `site` and the `published_after` / `published_before` filters where they
    fit. Search again with a different angle when coverage is thin.
+   Pass `objective` (two or three self-contained sentences, up to 1,000 characters)
+   restating this sub-question in general, public terms; it is sent to Keenable
+   with the query. Never include user identifiers, personal or confidential
+   details or conversation content; if the sub-question cannot be described
+   without them, omit it.
 3. **Read the strongest sources.** Use `fetch_page_content` on the most relevant
    results instead of trusting excerpts. Pass `prompt` to pull only the facts
    you need from long pages.
