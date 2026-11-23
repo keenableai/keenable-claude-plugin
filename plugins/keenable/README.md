@@ -79,7 +79,7 @@ account instead:
 ## Data and security
 
 The plugin talks only to `https://api.keenable.ai/mcp` over HTTPS. Search
-queries and requested URLs are sent to Keenable, along with an
+queries, the optional search `objective` and requested URLs are sent to Keenable, along with an
 `X-Keenable-Title: claude-plugin` header that identifies the plugin's traffic.
 It sends no credentials, runs no local code or shell commands, and reads no
 local files. See the [privacy policy](https://keenable.ai/privacy).
