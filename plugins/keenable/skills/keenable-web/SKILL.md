@@ -6,8 +6,9 @@ description: "Search and read the web with Keenable. Use when a task needs curre
 # Keenable Web Research
 
 Use the Keenable MCP tools from this plugin to find current, source-grounded web
-information. With the plugin installed, use them for web lookups instead of a
-generic web search tool. They need no authentication.
+information. They suit lookups that need sources: each result comes with a URL
+to cite, and any page can be read as clean markdown. They need no
+authentication.
 
 ## Choose the right tool
 
