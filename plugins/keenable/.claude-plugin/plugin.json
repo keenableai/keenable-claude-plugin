@@ -1,7 +1,7 @@
 {
   "name": "keenable",
   "displayName": "Keenable",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Web search and clean page extraction through Keenable's hosted MCP server, with skills for everyday web research and cited multi-source research. Keyless: no signup or API key.",
   "author": {
     "name": "Keenable",
